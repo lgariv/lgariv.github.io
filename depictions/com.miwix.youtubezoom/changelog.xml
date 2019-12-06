@@ -1,0 +1,32 @@
+<changelog>
+  <changes>
+      <version>1.1.1</version>
+        <change>You can now use the "Zoom by default" feature to zoom in by default even without limiting the zoom to 18:9 aspect ratio.</change>
+        <change>Added bug report form.</change>
+  </changes>
+  <changes>
+      <version>1.1.0</version>
+        <change>You can now use the "Zoom by default" feature to zoom in by default even without limiting the zoom to 18:9 aspect ratio.</change>
+  </changes>
+  <changes>
+      <version>1.0.4</version>
+        <change>Fixed support for A12 devices.</change>
+        <change>PayPal donation button now actually works!</change>
+    </changes>
+    <changes>
+  		<version>1.0.3</version>
+        <change>Name change.</change>
+    </changes>
+    <changes>
+  		<version>1.0.2</version>
+        <change>Fixed "Zoom By Default" feature.</change>
+    </changes>
+  	<changes>
+  		<version>1.0.1</version>
+    		<change>Added A12 Support (test needed).</change>
+    </changes>
+    <changes>
+  		<version>1.0.0</version>
+  		  <change>Initial public release.</change>
+    </changes>
+</changelog>

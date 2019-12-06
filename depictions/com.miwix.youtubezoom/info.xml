@@ -1,0 +1,46 @@
+<package>
+	<id>com.miwix.youtubezoom</id>
+	<name>Zoom for YouTube</name>
+	<version>1.1.1</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+      <maxOS>13.2.3</maxOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>Compatible with: iPhone X, iPhone Xs, iPhone Xs Max, iPhone Xr. iOS 11.0-13.2.3</shortDescription>
+	<descriptionlist>
+		<description>This tweak changes the values for YouTube's "Zoom To Fill" feature, to zoom just up to about 18:9 aspect ratio, which is right up to the notch.</description>
+		<description>It also gives you the option to zoom in by default, with/out the zoom to 18:9 aspect ratio limit.</description>
+		<description>Report any bugs/problems in the bug report button down below, or in the tweak settings.</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+            <image>1.PNG</image>
+		</screenshot>
+		<screenshot>
+            <image>2.PNG</image>
+		</screenshot>
+		<screenshot>
+						<image>3.png</image>
+		</screenshot>
+	</screenshots>
+	<changelog>
+		<change>You can now use the "Zoom by default" feature to zoom in by default even without limiting the zoom to 18:9 aspect ratio.</change>
+		<change>Added bug report form.</change>
+	</changelog>
+	<links>
+		<link>
+			<name>Bug Report</name>
+			<url>https://forms.gle/CPnMikAGUjo2PaBo7</url>
+		</link>
+		<link>
+			<name>Donate Me</name>
+			<url>https://lgariv.github.io/LaVie/Donate.html</url>
+		</link>
+		<link>
+			<name>Contact Me</name>
+			<url>mailto:lavie43g@gmail.com</url>
+		</link>
+    </links>
+</package>
